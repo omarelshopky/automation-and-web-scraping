@@ -1,0 +1,5 @@
+this is an email for NAME
+Your link is LINK
+
+Regards,
+DarkKnight
