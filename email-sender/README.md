@@ -1,4 +1,6 @@
 # Email Sender
+Automate sending emails that have a body template
+
 
 ### Usage
 - Set Less secure app access option to ON in your google account
